@@ -1,0 +1,4 @@
+This is a message sent earlier on the Server
+test chat 1
+test chat 2
+test chat 3
